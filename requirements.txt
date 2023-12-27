@@ -2,4 +2,8 @@ numpy
 pandas
 seaborn
 warnings
+scikit-learn
+xgboost
+catboost
+flask
 -e .
